@@ -1,8 +1,5 @@
 // DuplicateTypeRegistrationException.hpp
 //
-// ICS 46 Spring 2017
-// ICS 46 Library
-//
 // Exception that is thrown when attempting to register the same type with
 // the same DynamicFactory twice.  Since registration is primarily done
 // using a global macro call, this will predominantly be thrown at startup.
