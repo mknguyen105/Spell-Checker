@@ -1,8 +1,5 @@
 // UnregisteredNameException.hpp
 //
-// ICS 46 Spring 2017
-// ICS 46 Library
-//
 // An exception thrown by DynamicFactories when an attempt is made to create
 // an object using an unregistered name.  For example, if the name "Student"
 // hasn't previously been registered with DynamicFactory<Person>, this call
