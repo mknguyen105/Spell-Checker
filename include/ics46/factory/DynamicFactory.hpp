@@ -1,8 +1,5 @@
 // DynamicFactory.hpp
 //
-// ICS 46 Spring 2017
-// ICS 46 Library
-//
 // A DynamicFactory<BaseType> is an object that is capable of creating objects
 // whose types inherit from BaseType, returning BaseType pointers to them.
 // The goal is to allow it to be possible to do two things that C++ otherwise
