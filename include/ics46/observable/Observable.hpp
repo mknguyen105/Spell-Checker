@@ -1,8 +1,5 @@
 // Observable.hpp
 //
-// ICS 46 Spring 2017
-// ICS 46 Library
-//
 // The template class Observable<ObserverType> serves as a base class
 // that provides the ability for an object to have a list of "observer"
 // objects associated with it, which can be "notified" when an interesting
