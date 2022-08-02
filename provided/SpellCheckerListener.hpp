@@ -1,8 +1,5 @@
 // SpellCheckerListener.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
 // An abstract base class for listeners that are told when spell
 // checkers do interesting things.  At present, there's only one
 // such thing: a notification that a misspelling was found.
