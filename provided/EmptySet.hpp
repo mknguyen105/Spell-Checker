@@ -1,8 +1,5 @@
 // EmptySet.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
 // A set implementation that is always empty.  This has value in our
 // timing tests, where we want to factor out how much time is being
 // spent inside our set implementations, as opposed to parsing input
