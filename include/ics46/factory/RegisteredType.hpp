@@ -1,8 +1,5 @@
 // RegisteredType.hpp
 //
-// ICS 46 Spring 2017
-// ICS 46 Library
-//
 // A RegisteredType<BaseType> describes a type registered with a
 // DynamicFactory<BaseType>.  A RegisteredType has these properties:
 //
