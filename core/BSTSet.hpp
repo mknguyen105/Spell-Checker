@@ -1,17 +1,7 @@
 // BSTSet.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
-// A BSTSet is an implementation of a Set that is a binary search tree,
-// albeit one that makes no attempt to remain balanced.  (You explicitly
-// should not do any balancing here; do that in AVLSet instead, if you
-// choose to work on that one.)
-//
-// You are not permitted to use the containers in the C++ Standard Library
-// (such as std::set, std::map, or std::vector).  Instead, you'll need
-// to implement your binary search tree using your own dynamically-allocated
-// nodes, with pointers connecting them.
+// BSTSet is an implementation of a Set that is a binary search tree,
+// albeit one that makes no attempt to remain balanced.
 
 #ifndef BSTSET_HPP
 #define BSTSET_HPP
