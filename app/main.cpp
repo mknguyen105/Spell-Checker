@@ -1,10 +1,6 @@
 // main.cpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
-// You will not need to modify this file at all; it simply calls into the
-// provided code and prints any error messages that emanate from it.
+// simply calls into the provided code and prints any error messages that emanate from it.
 
 #include <iostream>
 #include "SpellCheckShell.hpp"
