@@ -1,8 +1,5 @@
 // SpellCheckShell.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
 // Main console-mode shell for interacting with the spell checker.
 
 #ifndef SPELLCHECKSHELL_HPP
