@@ -1,8 +1,5 @@
 // Set.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
 // The Set<T> class template is an abstract base class template for
 // implementations of a "set" (i.e., a collection of elements that
 // allows you to add, search, and determine a size).
