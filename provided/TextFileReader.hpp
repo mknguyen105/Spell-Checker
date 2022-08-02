@@ -1,8 +1,5 @@
 // TextFileReader.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
 // Reads an input file and makes it possible to consume it word by word,
 // with spaces and punctuation skipped (except for hyphens or apostrophes
 // within words).
