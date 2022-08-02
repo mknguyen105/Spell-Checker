@@ -1,7 +1,4 @@
 // StringHashing.cpp
-//
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
 
 #include "StringHashing.hpp"
 
