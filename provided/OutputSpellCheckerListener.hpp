@@ -1,8 +1,5 @@
 // OutputSpellCheckerListener.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
 // A SpellCheckListener that prints output describing misspellings
 // as they're found.
 
