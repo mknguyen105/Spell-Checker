@@ -1,8 +1,5 @@
 // UnregisteredTypeException.hpp
 //
-// ICS 46 Spring 2017
-// ICS 46 Library
-//
 // An exception thrown by DynamicFactories when an attempt is made to create
 // an object using an unregistered type.  For example, if the type Student
 // hasn't previously been registered with DynamicFactory<Person>, this call
