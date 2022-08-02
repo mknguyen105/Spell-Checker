@@ -1,8 +1,5 @@
 // ListSet.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
 // An implementation of the Set<T> class template, which uses a singly-
 // linked list with a head pointer to store its keys.  The keys are not
 // sorted in any particular order.
