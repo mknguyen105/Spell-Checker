@@ -1,8 +1,5 @@
 // AVLSet_SanityCheckTests.cpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
 // This is a set of "sanity checking" unit tests for your AVLSet<T>
 // implementation, provided primarily as a mechanism for ensuring that
 // your implementation is compatible with the unit tests we'll be using
@@ -11,12 +8,6 @@
 // should be, and that you've organized your code correctly as a template
 // so that these tests will compile and link.  These tests don't verify
 // the functionality; that'll be up to you to test on your own.
-//
-// As with the sanity-checking tests you saw in Project #0, you should
-// not modify these in any way -- don't add #include directives, don't
-// change the code within the tests.  Initially, these will compile
-// correctly.  They should all compile and pass before you submit your
-// AVLSet implementation.
 
 #include <string>
 #include <gtest/gtest.h>
