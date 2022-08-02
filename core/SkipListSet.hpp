@@ -1,25 +1,12 @@
 // SkipListSet.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
+// A SkipListSet is an implementation of a Set that is a skip list
+// A skip list is a sequence of levels
 //
-// A SkipListSet is an implementation of a Set that is a skip list, implemented
-// as we discussed in lecture.  A skip list is a sequence of levels
+// Implemented dynamically-allocated nodes with pointers connecting them.
 //
-// You are not permitted to use the containers in the C++ Standard Library
-// (such as std::set, std::map, or std::vector), *except* that you can use
-// std::vector to store your levels (e.g., pointers to the head node of each
-// level) if you'd like.  Beyond that, you'll need to implement your own
-// dynamically-allocated nodes with pointers connecting them.
-//
-// Each node should contain only two pointers: one to the node that follows it
+// Each node contains only two pointers: one to the node that follows it
 // on the same level and another to the equivalent node on the level below it.
-// Additional pointers use more memory but don't enable any techniques not
-// enabled by the other two.
-//
-// A couple of utilities are included here: SkipListKind and SkipListKey.
-// You can feel free to use these as-is and probably will not need to
-// modify them.
 
 #ifndef SKIPLISTSET_HPP
 #define SKIPLISTSET_HPP
