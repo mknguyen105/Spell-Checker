@@ -1,8 +1,5 @@
 // Stopwatch.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
 // The Stopwatch class is used to measure CPU time consumption between
 // the time that its start() and stop() member functions are called.
 
