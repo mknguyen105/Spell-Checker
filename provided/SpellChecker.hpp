@@ -1,8 +1,5 @@
 // SpellChecker.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
 // This class implements a basic spell checker.  It uses the given
 // WordChecker to determine whether words are spelled correctly,
 // the given TextFileReader to determine which words to check,
