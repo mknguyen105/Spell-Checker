@@ -1,17 +1,8 @@
 // AVLSet.hpp
 //
-// ICS 46 Spring 2017
-// Project #3: Set the Controls for the Heart of the Sun
-//
-// An AVLSet is an implementation of a Set that is an AVL tree, which uses
-// the algorithms we discussed in lecture to maintain balance every time a
-// new element is added to the set.
-//
-// You are not permitted to use the containers in the C++ Standard Library
-// (such as std::set, std::map, or std::vector).  Instead, you'll need
-// to implement your AVL tree using your own dynamically-allocated nodes,
-// with pointers connecting them, and with your own balancing algorithms
-// used.
+// AVLSet is an implementation of a Set that is an AVL tree, which maintain 
+// balance every time a new element is added to the set.
+
 
 #ifndef AVLSET_HPP
 #define AVLSET_HPP
